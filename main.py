@@ -393,6 +393,9 @@ async def kuk(bot, msg):
     else :
 
         pass
+    await msg.reply_chat_action(enums.ChatAction.TYPING)
+
+   
 
     try :
 
