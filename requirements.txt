@@ -1,2 +1,5 @@
 pyrogram 
 pymongo 
+
+requeets
+cohere
