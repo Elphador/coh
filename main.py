@@ -322,7 +322,7 @@ async def start(bot, msg):
 
     markup = InlineKeyboardMarkup([[channel, group], [developer,premium],[help]])
 
-    await msg.reply(f"**Hello {username} My name Is Kuki I'm an Ai Chat Bot , I'm here to waste my time talking with you**",
+    await msg.reply(f"**Hello {username} I'm the Neural guy😎  , I'm here to answer your silly and wired questions😏**",
 
     reply_markup= markup )
 
